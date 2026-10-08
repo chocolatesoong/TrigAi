@@ -2,8 +2,10 @@
   "payload": {
     "schema_version": 1,
     "namespace": "soong-triggerbot-v2",
-    "generated_at": "2026-10-08T01:35:15+00:00",
-    "identifiers": []
+    "generated_at": "2026-10-08T06:11:30+00:00",
+    "identifiers": [
+      "3453d5181b915699682bb2740f94a3ed7892ec02c19562758040bcec3df10e5e"
+    ]
   },
-  "signature": "DvBhRPf01emtsgj6d/Z37AqPTDA4FNXkjw7X8YsM9w+WuexTz6BIOiOlRioTaO/54YDu3AJhzHrvEbqdfjOgBA=="
+  "signature": "gW9kUQyEJoErel02EVTBdeXqtZKfxcWZ1xk+n7cIPRbs1GNYBupr1qAUiJVEcY2gj3e1L1BAYOnfemqgBOm7Bg=="
 }
